@@ -1,4 +1,4 @@
 # linux_cat_and_grep
-*Проект для школы*
+*Project for school 21*
 ___
 My implementation of the Linux commands cat and grep in the C programming language.
